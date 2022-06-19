@@ -1,0 +1,26 @@
+
+Backend/.idea
+Backend/target
+Proteus/Arduino_sketches/master/master.ino.mega.hex
+Proteus/Arduino_sketches/master/master.ino.with_bootloader.mega.hex
+Proteus/Arduino_sketches/slave_a/slave_a.ino.mega.hex
+Proteus/Arduino_sketches/slave_a/slave_a.ino.standard.hex
+Proteus/Arduino_sketches/slave_a/slave_a.ino.with_bootloader.mega.hex
+Proteus/Arduino_sketches/slave_a/slave_a.ino.with_bootloader.standard.hex
+Proteus/Arduino_sketches/slave_b/slave_b.ino.mega.hex
+Proteus/Arduino_sketches/slave_b/slave_b.ino.standard.hex
+Proteus/Arduino_sketches/slave_b/slave_b.ino.with_bootloader.mega.hex
+Proteus/Arduino_sketches/slave_b/slave_b.ino.with_bootloader.standard.hex
+Proteus/Project Backups/Proteus \[Autosaved\].pdsprj
+Proteus/Project Backups/Proteus \[20220613, 10-53-03\].pdsprj
+Proteus/Project Backups/Proteus \[20220612, 20-55-53\].pdsprj
+Proteus/Project Backups/lab-6 \[Autosaved\].pdsprj
+Proteus/Project Backups/lab-6 \[20220607, 01-32-55\].pdsprj
+Proteus/Project Backups/lab-6 \[20220607, 00-58-44\].pdsprj
+Proteus/Project Backups/lab-6 \[20220606, 23-03-22\].pdsprj
+Proteus/Project Backups/lab-6 \[20220606, 23-03-19\].pdsprj
+Proteus/Project Backups/lab-6 \[20220606, 21-37-50\].pdsprj
+Proteus/Project Backups/lab-6 \[20220604, 18-41-39\].pdsprj
+Proteus/Project Backups/lab-6 \[20220603, 20-18-46\].pdsprj
+Proteus/Proteus.pdsprj.DESKTOP-R04822M.maks1.workspace
+res/diagram.mwb.bak
